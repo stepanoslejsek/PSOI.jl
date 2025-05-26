@@ -3,7 +3,11 @@ uuid = "d7b152a3-b3b9-410e-ba0d-b3c9d42775b0"
 authors = ["Stepan Oslejsek"]
 version = "1.0.0-DEV"
 
+[deps]
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+
 [compat]
+MathOptInterface = "1.40.1"
 julia = "1.6.7"
 
 [extras]
