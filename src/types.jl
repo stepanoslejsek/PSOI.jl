@@ -38,3 +38,5 @@ end
 
 mutable struct Solver{T <: AbstractFloat}
 end
+
+export QPProblem
